@@ -1,1 +1,1 @@
-# terraform-guacamole
+# terraform-aws-guacamole
